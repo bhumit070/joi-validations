@@ -1,0 +1,9 @@
+{
+  "name": "joi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "joi": "^17.6.0"
+  }
+}
